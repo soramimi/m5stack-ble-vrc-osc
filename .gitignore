@@ -1,0 +1,4 @@
+build_*
+_build_*
+*.user
+*.autosave
